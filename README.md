@@ -56,3 +56,20 @@ The following are links for the notebooks associated with each chapter. The firs
 | 11 |    Closing Our Journey: How to Stay Relevant and on Top  | [Coffee or Beer in London - Your Choice (improved)!](https://github.com/PacktPublishing/Developing-Kaggle-Notebooks/blob/main/Chapter-11/coffee-or-beer-in-london-your-choice-improved.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/gpreda/coffee-or-beer-in-london-your-choice-improved) |
 |  |   | [How active are the users on Kaggle?](https://github.com/PacktPublishing/Developing-Kaggle-Notebooks/blob/main/Chapter-11/how-active-are-the-users-on-kaggle.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/gpreda/how-active-are-the-users-on-kaggle) |
 
+## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
+You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/kaggle)
+
+## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
+
+_If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
+[Free-Ebook](https://packt.link/free-ebook/9781805128519) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [GraphicBundle](https://packt.link/gbp/9781805128519) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
+## Get to know the Authors
+_Dr. Gabriel Preda_ is a Principal Data Scientist for Endava, a major software services company. He has worked on projects in various industries, including financial services, banking, portfolio management, telecom, and healthcare, developing machine learning solutions for various business problems, including risk prediction, churn analysis, anomaly detection, task recommendations, and document information extraction. In addition, he is very active in competitive machine learning, currently holding the title of a three-time Kaggle Grandmaster and is well-known for his Kaggle Notebooks.
+
+## Other Related Books
+- [The Kaggle Book](https://www.packtpub.com/product/the-kaggle-book/9781801817479)
+- [The Kaggle Workbook](https://www.packtpub.com/product/the-kaggle-workbook/9781804611210)
