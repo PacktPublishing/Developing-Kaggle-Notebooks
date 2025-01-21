@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/e72907cf-bf2f-4f83-bb58-6cc08a901ff9.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
+
 # Developing-Kaggle-Notebooks
 
 This is the code repository for the book [Developing Kaggle Notebooks: Paving your way to becoming a Kaggle Notebooks Grandmaster](https://www.amazon.com/Developing-Kaggle-Notebooks-becoming-Grandmaster/dp/1805128515/), published by Packt.
